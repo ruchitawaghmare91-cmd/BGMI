@@ -1,0 +1,5 @@
+{
+  "name": "Classic Snake Game",
+  "description": "A fully functional, responsive Snake game with score tracking, high scores, and grid-based mechanics.",
+  "requestFramePermissions": []
+}
